@@ -26,18 +26,7 @@
 - [ ] This task is not complete
 
 
-```bash
-git clone https://github.com/skills/communicate-using-markdown
-```
 
-
-git clone https://github.com/skills/communicate-using-markdown
-
-```js
-var myVar = "Hello, world!";
-```
-
-var myVar = "Hello, world!";
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
